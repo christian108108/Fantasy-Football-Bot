@@ -1,0 +1,100 @@
+Week: 1
+Home Team:  Orlando Senders      :  159.6  *W*
+Away Team:  St. Augustine Beans  :  156.54
+
+Week: 2
+Home Team:  St. Augustine Beans  :  134.3
+Away Team:  Orlando Meme Team    :  158.78  *W*
+
+Home Team:  Orlando Senders    :  123.72
+Away Team:  Manz of The Match  :  140.22  *W*
+
+Week: 4
+Home Team:  Orlando Senders        :  156.2
+Away Team:  Trampa BullsPeedAhead  :  165.54  *W*
+
+Week: 6
+Home Team:  Kiss My Tight End  :  154.42  *W*
+Away Team:  Orlando Meme Team  :  148.24
+
+Week: 8
+Home Team:  Saved By Odell   :  131.0
+Away Team:  Orlando Senders  :  133.54  *W*
+
+Week: 9
+Home Team:  Big Sacks          :  135.82
+Away Team:  Kiss My Tight End  :  141.68  *W*
+
+Home Team:  Josh Jacobs Jingleheimer  :  124.22
+Away Team:  St. Augustine Beans       :  131.4  *W*
+
+Week: 10
+Home Team:  Orlando Meme Team  :  152.92
+Away Team:  Big Sacks          :  154.28  *W*
+
+Home Team:  St. Augustine Beans  :  124.9  *W*
+Away Team:  Orlando Senders      :  116.64
+
+Games with different outcomes:  10
+
+---- Records and points ----
+
+Josh Jacobs Jingleheimer
+Record before:  6 - 7
+Record after :  5 - 8
+PF before:  1419.56  - PA before:  1676.52
+PF after :  1640.5   - PA after :  1776.4
+
+Big Sacks
+Record before:  6 - 7
+Record after :  6 - 7
+PF before:  1515.38  - PA before:  1539.5
+PF after :  1598.28  - PA after :  1664.96
+
+Orlando Senders
+Record before:  8 - 5
+Record after :  7 - 6
+PF before:  1566.16  - PA before:  1422.1
+PF after :  1630.66  - PA after :  1602.14
+
+Bye Week
+Record before:  6 - 7
+Record after :  6 - 7
+PF before:  1571.2  - PA before:  1546.62
+PF after :  1672.7  - PA after :  1699.22
+
+Manz of The Match
+Record before:  7 - 6
+Record after :  8 - 5
+PF before:  1751.58  - PA before:  1680.26
+PF after :  1789.34  - PA after :  1707.74
+
+Trampa BullsPeedAhead
+Record before:  5 - 8
+Record after :  6 - 7
+PF before:  1576.3   - PA before:  1651.82
+PF after :  1749.42  - PA after :  1764.42
+
+Orlando Meme Team
+Record before:  10 - 3
+Record after :  9 - 4
+PF before:  1647.2   - PA before:  1488.72
+PF after :  1784.06  - PA after :  1663.3
+
+Saved By Odell
+Record before:  6 - 7
+Record after :  5 - 8
+PF before:  1531.42  - PA before:  1597.48
+PF after :  1649.54  - PA after :  1660.1
+
+St. Augustine Beans
+Record before:  5 - 8
+Record after :  5 - 8
+PF before:  1574.7   - PA before:  1608.14
+PF after :  1612.06  - PA after :  1699.2
+
+Kiss My Tight End
+Record before:  6 - 7
+Record after :  8 - 5
+PF before:  1625.48  - PA before:  1567.82
+PF after :  1725.66  - PA after :  1614.74
